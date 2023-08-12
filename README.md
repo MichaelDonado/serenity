@@ -4,11 +4,11 @@
 
 # Serenity
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Un nuevo proyecto Flutter creado con FlutLab - https://flutlab.io
 
 ## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+Algunos recursos para empezar si éste es su primer proyecto Flutter:
 
 - https://flutter.dev/docs/get-started/codelab
 - https://flutter.dev/docs/cookbook
